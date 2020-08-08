@@ -12,8 +12,6 @@ using namespace std;
 #define all(a) (a).begin(),(a).end()
 #define sz(x) (int)x.size()
 
-
-
 const int INF = 0x3f3f3f3f, MOD = 1e9 + 7;
 
 typedef long long int ll;
@@ -63,3 +61,12 @@ int main(){
 
     return 0;
 }
+/* Testcases:
+Input:
+    2
+    [({})]
+    {(]}
+Output:
+    YES
+    NO
+*/
