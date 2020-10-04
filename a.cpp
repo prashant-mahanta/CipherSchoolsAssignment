@@ -1,7 +1,4 @@
-/* Program to check whether the input integer number 
- * is even or odd using the modulus operator (%)
- */
-#include<stdio.h>
+#include<bits/stdc++.h>
 int main()
 {
    // This variable is to store the input number 
@@ -13,6 +10,7 @@ int main()
    // Modulus (%) returns remainder
    if ( num%2 == 0 )
       printf("%d is an even number", num);
+   
    else
       printf("%d is an odd number", num);
  
