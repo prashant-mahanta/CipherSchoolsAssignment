@@ -1,4 +1,4 @@
-#include 
+#include <bits/stdc++.h>
 void hello(){
 	printf("Hello World");
 }
