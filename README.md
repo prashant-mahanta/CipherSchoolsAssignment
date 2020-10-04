@@ -1,2 +1,2 @@
 # CipherSchoolsAssignment
-Assignment
+Basic C programming codes for beginners
